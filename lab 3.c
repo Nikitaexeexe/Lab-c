@@ -6,16 +6,16 @@ int main(int argc, char *argv[])
 	char s[80];
 	int i;
 	if(fgets(s,80,stdin))
-	{
+	{das
 		for(i=0;s[i];i++)
 		{
-			if(s[i]=='a')
+			if(s[i]=='a')dsad
 			{
 				s[i]='A';....
 			}
 			else
 			{
-				if(s[i]=='b')
+				if(s[i]=='b')dsad
 				{
 					s[i]='B';
 				}
