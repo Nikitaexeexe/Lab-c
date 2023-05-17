@@ -6,7 +6,7 @@ int main(int argc, char *argv[])
 	char s[80];
 	int i;
 	if(fgets(s,80,stdin))jhjh
-	{daskvndjks
+	{daskvndjksxjshsh
 		for(i=0;s[i];i++)
 		{
 			if(s[i]=='a')dsad
