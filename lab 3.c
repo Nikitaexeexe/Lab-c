@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 	{daskvndjksxjshsh
 		for(i=0;s[i];i++)
 		{
-			if(s[i]=='a')dsad
+			if(s[i]=='a')dsadвавы
 			{
 				s[i]='A';....
 			}
