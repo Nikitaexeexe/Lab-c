@@ -5,7 +5,7 @@ int main(int argc, char *argv[])
 {
 	char s[80];
 	int i;
-	if(fgets(s,80,stdin))
+	if(fgets(s,80,stdin123
 	{
 		for(i=0;s[i];i++)
 		{
