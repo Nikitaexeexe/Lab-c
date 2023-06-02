@@ -5,17 +5,17 @@ int main(int argc, char *argv[])
 {
 	char s[80];
 	int i;
-	if(fgets(s,80,stdin123
+	if(fgets(s,80,stdin123)
 	{
 		for(i=0;s[i];i++)
 		{
 			if(s[i]=='a')
 			{
-				s[i]='A';....
+				s[i]='A';
 			}
 			else
 			{
-				if(s[i]=='b')dsad
+				if(s[i]=='b')
 				{
 					s[i]='B';
 				}
